@@ -1,6 +1,5 @@
 <script>
   import { onMount } from "svelte";
-
   import CardList from "./Cards.svelte";
   import Card from "./lib/components/CardProxy.svelte";
 
